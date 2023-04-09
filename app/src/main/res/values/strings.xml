@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LearnUzbek</string>
+    <string name="btn_label">Toast</string>
+    <string name="num_txt">0</string>
+    <string name="count">Count</string>
+    <string name="toast_msg">Hello Toast!</string>
+</resources>
